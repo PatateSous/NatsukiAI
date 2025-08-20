@@ -25,6 +25,8 @@ I use danser, and also my software, and it's pretty easy, if i'm honest, the har
 
 Steps to get a NatsukiAI video out :
 
+
+
 -Launch NatsukiAI and generate replay
 
 -Danser render
@@ -35,5 +37,8 @@ Steps to get a NatsukiAI video out :
 
 -Yippie!
 
+
+
 Either way, i hope you love the website i made for my little project, it's super basic, but it's better than plain text!
+
 
