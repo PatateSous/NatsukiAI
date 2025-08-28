@@ -6,6 +6,8 @@ NatsukiAI is in the hands of only my very close friends, so if that person is so
 
 Video link to the first reference of NatsukiAI : https://youtu.be/FLdMLcvfvvs
 
+Indepth video of how NatsukiAI works : https://youtu.be/7awJHovOTAc
+
 
 
 
@@ -40,5 +42,6 @@ Steps to get a NatsukiAI video out :
 
 
 Either way, i hope you love the website i made for my little project, it's super basic, but it's better than plain text!
+
 
 
